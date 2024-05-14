@@ -1,0 +1,90 @@
+﻿@model  CrudUsingJquery.Models.BookAuthor
+@{
+    ViewBag.Title = "Index";
+}
+
+
+<script src="~/Scripts/jquery-3.4.1.min.js"></script>
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+<script src="~/Scripts/bootstrap.min.js"></script>
+<h2>Index</h2>
+
+<div class="container">
+
+    <button class=" btn btn-primary" id="Createbtn">Create New</button>
+
+    <table class="table table-responsive">
+        <tr>
+            <th>Book Name</th>
+            <th>Author Name</th>
+            <th>Genre</th>
+        </tr>
+
+        @if (ViewBag.Book != null)
+        {
+            foreach (var item in ViewBag.Book)
+            {
+
+                <tr row_@item.BookId>
+                    <td>@item.BookTitle</td>
+                    <td>@item.AuthorName</td>
+                    <td>@item.Description</td>
+                    <td>
+                        <button class=" btn btn-primary" id="EditId">Edit</button>
+                        <button class=" btn btn-danger" id="DelteId">Delete</button>
+                    </td>
+                </tr>
+            }
+
+        }
+    </table>
+
+    @*Add Book Modal*@
+    <div class="modal fade" id="createmodal">
+        <div class="modal-dialog">
+            <div class="modal-content">
+
+                <div class="modal-header">
+                    <h3 class="modal-title">Add Book</h3>
+                    <a href="#" class="close" data-bs-dismiss="modal">&times;</a>
+                </div>
+
+                <div class="modal-body">
+                    <form id="myform">
+                        @Html.Label("AuthorName")&nbsp;@Html.DropDownListFor(m => m.AuthorName, ViewBag.Author as SelectList, "--Select List--", new { @class = "form-control" })
+
+                        @Html.Label("BookTitle")&nbsp;@Html.TextBoxFor(m => m.BookTitle, new { @class = "form-control" })
+
+                        @Html.Label("Description")&nbsp;@Html.TextBoxFor(m => m.Description, new { @class = "form-control" })
+
+                        <button type="submit" value="submit" class="btn btn-success" id="btnSubmit">Submit</button>
+
+                    </form>
+
+                </div>
+
+                <div class="modal-footer">
+
+                    <a href="#" class="btn btn-default" data-bs-dismiss="modal">Cancel</a>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            $("#Createbtn").click(function () {
+                $("#createmodal").modal("show");
+            });
+        });
+
+    </script>
+
+</div>

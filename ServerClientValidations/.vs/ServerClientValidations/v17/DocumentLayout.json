@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\trellis\\Desktop\\MIlestone2\\Milestone2\\Week5\\ServerClientValidations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E40EA86-E36B-472F-82E0-C98478BEB305}|ServerClientValidations.csproj|C:\\Users\\trellis\\Desktop\\MIlestone2\\Milestone2\\Week5\\ServerClientValidations\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E40EA86-E36B-472F-82E0-C98478BEB305}|ServerClientValidations.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E40EA86-E36B-472F-82E0-C98478BEB305}|ServerClientValidations.csproj|C:\\Users\\trellis\\Desktop\\MIlestone2\\Milestone2\\Week5\\ServerClientValidations\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E40EA86-E36B-472F-82E0-C98478BEB305}|ServerClientValidations.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E40EA86-E36B-472F-82E0-C98478BEB305}|ServerClientValidations.csproj|C:\\Users\\trellis\\Desktop\\MIlestone2\\Milestone2\\Week5\\ServerClientValidations\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E40EA86-E36B-472F-82E0-C98478BEB305}|ServerClientValidations.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E40EA86-E36B-472F-82E0-C98478BEB305}|ServerClientValidations.csproj|C:\\Users\\trellis\\Desktop\\MIlestone2\\Milestone2\\Week5\\ServerClientValidations\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E40EA86-E36B-472F-82E0-C98478BEB305}|ServerClientValidations.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E40EA86-E36B-472F-82E0-C98478BEB305}|ServerClientValidations.csproj|c:\\users\\trellis\\desktop\\milestone2\\milestone2\\week5\\serverclientvalidations\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1E40EA86-E36B-472F-82E0-C98478BEB305}|ServerClientValidations.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E40EA86-E36B-472F-82E0-C98478BEB305}|ServerClientValidations.csproj|c:\\users\\trellis\\desktop\\milestone2\\milestone2\\week5\\serverclientvalidations\\models\\employeedeptviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E40EA86-E36B-472F-82E0-C98478BEB305}|ServerClientValidations.csproj|solutionrelative:models\\employeedeptviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E40EA86-E36B-472F-82E0-C98478BEB305}|ServerClientValidations.csproj|C:\\Users\\trellis\\Desktop\\MIlestone2\\Milestone2\\Week5\\ServerClientValidations\\migrations\\202405091335397_requiredannotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E40EA86-E36B-472F-82E0-C98478BEB305}|ServerClientValidations.csproj|solutionrelative:migrations\\202405091335397_requiredannotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E40EA86-E36B-472F-82E0-C98478BEB305}|ServerClientValidations.csproj|C:\\Users\\trellis\\Desktop\\MIlestone2\\Milestone2\\Week5\\ServerClientValidations\\models\\site.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E40EA86-E36B-472F-82E0-C98478BEB305}|ServerClientValidations.csproj|solutionrelative:models\\site.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E40EA86-E36B-472F-82E0-C98478BEB305}|ServerClientValidations.csproj|C:\\Users\\trellis\\Desktop\\MIlestone2\\Milestone2\\Week5\\ServerClientValidations\\views\\home\\partialviewdemo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E40EA86-E36B-472F-82E0-C98478BEB305}|ServerClientValidations.csproj|solutionrelative:views\\home\\partialviewdemo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\trellis\\Desktop\\MIlestone2\\Milestone2\\Week5\\ServerClientValidations\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\trellis\\Desktop\\MIlestone2\\Milestone2\\Week5\\ServerClientValidations\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-14T04:00:49.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "202405091335397_requiredannotation.cs",
+              "DocumentMoniker": "C:\\Users\\trellis\\Desktop\\MIlestone2\\Milestone2\\Week5\\ServerClientValidations\\Migrations\\202405091335397_requiredannotation.cs",
+              "RelativeDocumentMoniker": "Migrations\\202405091335397_requiredannotation.cs",
+              "ToolTip": "C:\\Users\\trellis\\Desktop\\MIlestone2\\Milestone2\\Week5\\ServerClientValidations\\Migrations\\202405091335397_requiredannotation.cs",
+              "RelativeToolTip": "Migrations\\202405091335397_requiredannotation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T13:35:45.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Site.cs",
+              "DocumentMoniker": "C:\\Users\\trellis\\Desktop\\MIlestone2\\Milestone2\\Week5\\ServerClientValidations\\Models\\Site.cs",
+              "RelativeDocumentMoniker": "Models\\Site.cs",
+              "ToolTip": "C:\\Users\\trellis\\Desktop\\MIlestone2\\Milestone2\\Week5\\ServerClientValidations\\Models\\Site.cs",
+              "RelativeToolTip": "Models\\Site.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T12:33:44.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\trellis\\Desktop\\MIlestone2\\Milestone2\\Week5\\ServerClientValidations\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Models\\Department.cs",
+              "ToolTip": "C:\\Users\\trellis\\Desktop\\MIlestone2\\Milestone2\\Week5\\ServerClientValidations\\Models\\Department.cs",
+              "RelativeToolTip": "Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T12:33:12.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\trellis\\Desktop\\MIlestone2\\Milestone2\\Week5\\ServerClientValidations\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\trellis\\Desktop\\MIlestone2\\Milestone2\\Week5\\ServerClientValidations\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAIAwwDsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T11:55:55.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\trellis\\Desktop\\MIlestone2\\Milestone2\\Week5\\ServerClientValidations\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\trellis\\Desktop\\MIlestone2\\Milestone2\\Week5\\ServerClientValidations\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAOMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T06:06:47.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PartialViewDemo.cshtml",
+              "DocumentMoniker": "C:\\Users\\trellis\\Desktop\\MIlestone2\\Milestone2\\Week5\\ServerClientValidations\\Views\\Home\\PartialViewDemo.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\PartialViewDemo.cshtml",
+              "ToolTip": "C:\\Users\\trellis\\Desktop\\MIlestone2\\Milestone2\\Week5\\ServerClientValidations\\Views\\Home\\PartialViewDemo.cshtml",
+              "RelativeToolTip": "Views\\Home\\PartialViewDemo.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T11:26:59.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\trellis\\Desktop\\MIlestone2\\Milestone2\\Week5\\ServerClientValidations\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\trellis\\Desktop\\MIlestone2\\Milestone2\\Week5\\ServerClientValidations\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T13:44:11.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeDeptViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\trellis\\Desktop\\MIlestone2\\Milestone2\\Week5\\ServerClientValidations\\Models\\EmployeeDeptViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\EmployeeDeptViewModel.cs",
+              "ToolTip": "C:\\Users\\trellis\\Desktop\\MIlestone2\\Milestone2\\Week5\\ServerClientValidations\\Models\\EmployeeDeptViewModel.cs",
+              "RelativeToolTip": "Models\\EmployeeDeptViewModel.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T06:03:02.987Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

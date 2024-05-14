@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\trellis\\Desktop\\MIlestone2\\Milestone2\\Week5\\CrudUsingJquery\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCCA78C4-B876-49F8-B9ED-987318178A6D}|CrudUsingJquery.csproj|c:\\users\\trellis\\desktop\\milestone2\\milestone2\\week5\\crudusingjquery\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCCA78C4-B876-49F8-B9ED-987318178A6D}|CrudUsingJquery.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCCA78C4-B876-49F8-B9ED-987318178A6D}|CrudUsingJquery.csproj|C:\\Users\\trellis\\Desktop\\MIlestone2\\Milestone2\\Week5\\CrudUsingJquery\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCCA78C4-B876-49F8-B9ED-987318178A6D}|CrudUsingJquery.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCCA78C4-B876-49F8-B9ED-987318178A6D}|CrudUsingJquery.csproj|c:\\users\\trellis\\desktop\\milestone2\\milestone2\\week5\\crudusingjquery\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCCA78C4-B876-49F8-B9ED-987318178A6D}|CrudUsingJquery.csproj|solutionrelative:views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCCA78C4-B876-49F8-B9ED-987318178A6D}|CrudUsingJquery.csproj|c:\\users\\trellis\\desktop\\milestone2\\milestone2\\week5\\crudusingjquery\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FCCA78C4-B876-49F8-B9ED-987318178A6D}|CrudUsingJquery.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCCA78C4-B876-49F8-B9ED-987318178A6D}|CrudUsingJquery.csproj|c:\\users\\trellis\\desktop\\milestone2\\milestone2\\week5\\crudusingjquery\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCCA78C4-B876-49F8-B9ED-987318178A6D}|CrudUsingJquery.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCCA78C4-B876-49F8-B9ED-987318178A6D}|CrudUsingJquery.csproj|c:\\users\\trellis\\desktop\\milestone2\\milestone2\\week5\\crudusingjquery\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCCA78C4-B876-49F8-B9ED-987318178A6D}|CrudUsingJquery.csproj|solutionrelative:models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCCA78C4-B876-49F8-B9ED-987318178A6D}|CrudUsingJquery.csproj|c:\\users\\trellis\\desktop\\milestone2\\milestone2\\week5\\crudusingjquery\\models\\bookauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCCA78C4-B876-49F8-B9ED-987318178A6D}|CrudUsingJquery.csproj|solutionrelative:models\\bookauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\trellis\\Desktop\\MIlestone2\\Milestone2\\Week5\\CrudUsingJquery\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\trellis\\Desktop\\MIlestone2\\Milestone2\\Week5\\CrudUsingJquery\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "Views\\Home\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T12:24:39.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\trellis\\Desktop\\MIlestone2\\Milestone2\\Week5\\CrudUsingJquery\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\trellis\\Desktop\\MIlestone2\\Milestone2\\Week5\\CrudUsingJquery\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AQIAADUAAAAAAAAAAAA1wEUAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-14T11:56:00.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\trellis\\Desktop\\MIlestone2\\Milestone2\\Week5\\CrudUsingJquery\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "Models\\Author.cs",
+              "ToolTip": "C:\\Users\\trellis\\Desktop\\MIlestone2\\Milestone2\\Week5\\CrudUsingJquery\\Models\\Author.cs",
+              "RelativeToolTip": "Models\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:45:09.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\trellis\\Desktop\\MIlestone2\\Milestone2\\Week5\\CrudUsingJquery\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "C:\\Users\\trellis\\Desktop\\MIlestone2\\Milestone2\\Week5\\CrudUsingJquery\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:15:08.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookAuthor.cs",
+              "DocumentMoniker": "C:\\Users\\trellis\\Desktop\\MIlestone2\\Milestone2\\Week5\\CrudUsingJquery\\Models\\BookAuthor.cs",
+              "RelativeDocumentMoniker": "Models\\BookAuthor.cs",
+              "ToolTip": "C:\\Users\\trellis\\Desktop\\MIlestone2\\Milestone2\\Week5\\CrudUsingJquery\\Models\\BookAuthor.cs",
+              "RelativeToolTip": "Models\\BookAuthor.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T05:41:40.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\trellis\\Desktop\\MIlestone2\\Milestone2\\Week5\\CrudUsingJquery\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\trellis\\Desktop\\MIlestone2\\Milestone2\\Week5\\CrudUsingJquery\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAABGwBoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T11:23:59.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\trellis\\Desktop\\MIlestone2\\Milestone2\\Week5\\CrudUsingJquery\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\trellis\\Desktop\\MIlestone2\\Milestone2\\Week5\\CrudUsingJquery\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAIBCwCoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T04:15:05.577Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
